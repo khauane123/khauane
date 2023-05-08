@@ -1,19 +1,22 @@
-body{background-color: #383d58; color: white;}
+header{background-color: #383d58; color: white;}
 *{margin: 0; padding: 0;}
 
 header{background-color: #383d58; color: white;}
 
-.cabecalho-imagem{width: 25%;}
+.cabecalho-imagem{width: 20%;}
 
 .cabecalho{background: #383d58; color: white; display: flex; justify-content: space-around;}
 
 .cabecalho-lista-item{display: inline-block; margin: 0 16px; padding: 24px 0; font-size: 24px;}
+
 .escola-imagem{width: 25%;}
 
 .escola{background-image: linear-gradient(#383d58, #00c0eb);
     color: white;display: flex; justify-content: center;
     align-items: center; padding: 24px 0;}
 
-.escola-conteudo{width: 35%;}
+.escola-div-conteudo{width: 35%;}
 
 .escola-título{padding: 24px 0;}
+ 
+.body{font-family: 'Poppins', sans-serif;}
