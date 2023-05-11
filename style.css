@@ -20,3 +20,17 @@ header{background-color: #383d58; color: white;}
 .escola-título{padding: 24px 0;}
  
 .body{font-family: 'Poppins', sans-serif;}
+
+.estudante-imagem{width: 120;}
+
+.estudante-icone{width: 24px;}
+
+.estudante-div{text-align: center;}
+
+.estudante-titulo{text-align: center;padding: 50 px o}
+
+.estudante-todos{display: grid; grid-template-columns: 20% 20% 20% 20% 20%;}
+
+.rodape{background-color: black;text-align: center;}
+
+.rodape-imagem{height: 60px;padding: 12px o;}
